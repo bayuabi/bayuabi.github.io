@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bayu Abi P.</title>
+    <link>http://www.bayuabi.com/project/</link>
+    <description>Recent content in Projects on Bayu Abi P.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 26 Apr 2019 16:37:15 +0700</lastBuildDate>
+    
+	<atom:link href="http://www.bayuabi.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self Driving Car</title>
+      <link>http://www.bayuabi.com/project/self-driving-car/</link>
+      <pubDate>Fri, 26 Apr 2019 16:37:15 +0700</pubDate>
+      
+      <guid>http://www.bayuabi.com/project/self-driving-car/</guid>
+      <description>NOTE : Baris kode pada project ini dapat dilihat disini : https://github.com/bayuabi/opencv-autonomous-car
+Pada proyek kali ini, saya akan membuat sebuat prototype self-driving car. Proyek ini terinspirasi dari beberapa hal, salah dua-nya adalah Autopilot mobil Tesla yang semakin ciamik dan obrolan ringan bareng bapak2 dosen yang menginspirasi untuk merealisasikan projek ini. Proyek ini saya kerjakan bareng beberapa adek tingkat yang terobsesi dengan dunia riset, dan yang akan semakin saya paksa untuk lebih terjerumus ke dunia riset ini.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.bayuabi.com/blog/2019-journey/</loc>
+    <lastmod>2019-12-31T00:43:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/</loc>
+    <lastmod>2019-12-31T00:43:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/blog/</loc>
+    <lastmod>2019-12-31T00:43:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/project/</loc>
+    <lastmod>2019-04-26T16:37:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/project/self-driving-car/</loc>
+    <lastmod>2019-04-26T16:37:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/blog/getting-started-with-de0-nano-soc-fpga/</loc>
+    <lastmod>2019-01-29T00:43:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/blog/esp8266-bypass-wifi-login-page/</loc>
+    <lastmod>2019-01-26T16:37:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bayuabi.com/tags/</loc>
+  </url>
+  
+</urlset>

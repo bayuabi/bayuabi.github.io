@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayu Abi P.</title>
+    <link>http://www.bayuabi.com/</link>
+    <description>Recent content on Bayu Abi P.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 31 Dec 2019 00:43:08 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.bayuabi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019 Journey</title>
+      <link>http://www.bayuabi.com/blog/2019-journey/</link>
+      <pubDate>Tue, 31 Dec 2019 00:43:08 +0800</pubDate>
+      
+      <guid>http://www.bayuabi.com/blog/2019-journey/</guid>
+      <description>Yok ini tulisan untuk mengenang kembali apa-apa saja yang sudah ana lakukan di 2019 ini. Cuma foto-foto saja. Ga penting sih, tapi daripada blog dianggurin heheh.
+*JANUARI*
+29 Desember 2018 berangkat PKL dan pulang di akhir januari di Pusat Teknologi Roket (Pustekroket) Lapan di Bogor. Pengalaman PKL yang seru bareng 10 orang yang lain. Setiap hari melewati jalanan rumpin yang sedikit bergelombang, ngoding FPGA, ghibah bersama 9 orang (yang satu jadi objek ghibah), masak indomie, kopi, nasi dalam satu ricecooker yang sama.</description>
+    </item>
+    
+    <item>
+      <title>Self Driving Car</title>
+      <link>http://www.bayuabi.com/project/self-driving-car/</link>
+      <pubDate>Fri, 26 Apr 2019 16:37:15 +0700</pubDate>
+      
+      <guid>http://www.bayuabi.com/project/self-driving-car/</guid>
+      <description>NOTE : Baris kode pada project ini dapat dilihat disini : https://github.com/bayuabi/opencv-autonomous-car
+Pada proyek kali ini, saya akan membuat sebuat prototype self-driving car. Proyek ini terinspirasi dari beberapa hal, salah dua-nya adalah Autopilot mobil Tesla yang semakin ciamik dan obrolan ringan bareng bapak2 dosen yang menginspirasi untuk merealisasikan projek ini. Proyek ini saya kerjakan bareng beberapa adek tingkat yang terobsesi dengan dunia riset, dan yang akan semakin saya paksa untuk lebih terjerumus ke dunia riset ini.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With DE0 Nano SoC FPGA</title>
+      <link>http://www.bayuabi.com/blog/getting-started-with-de0-nano-soc-fpga/</link>
+      <pubDate>Tue, 29 Jan 2019 00:43:08 +0800</pubDate>
+      
+      <guid>http://www.bayuabi.com/blog/getting-started-with-de0-nano-soc-fpga/</guid>
+      <description>Pada tulisan kali ini saya akan berbagi mengenai pemrogaman FPGA menggunakan bahasa pemrogaman VHDL. Untuk yang belum mengerti mengenai apa itu FPGA dan VHDL bisa dilihat dulu sekilas tentang keduanya di link berikut : - FPGA - VHDL
+Board FPGA yang akan saya gunakan adalah DE0 Nano SoC. Pada board tersebut terdapat Sytem on Chip (SoC) yang terdiri dari FPGA dan Hard Processing System (HPS) ARM 9 yang menggunakna chip Cyclone V.</description>
+    </item>
+    
+    <item>
+      <title>ESP8266 Bypass Wifi Login Page</title>
+      <link>http://www.bayuabi.com/blog/esp8266-bypass-wifi-login-page/</link>
+      <pubDate>Sat, 26 Jan 2019 16:37:15 +0700</pubDate>
+      
+      <guid>http://www.bayuabi.com/blog/esp8266-bypass-wifi-login-page/</guid>
+      <description>Ketika menggunakan ESP8266 (Wemos, Nodemcu, dll) untuk projek IoT, tentunya kita membutuhkan jaringan wifi untuk berkomunikasi melalui jaringan internet. Dalam baris kode yang kita tulis biasanya kita diharuskan untuk memasukkan SSID dan password wifi yang kita gunakan. Tetapi kadang kala wifi yang kita gunakan mengharuskan kita untuk mengisi sebuah halaman login, seperti wifi kampus, wifi corner, wifi kantor, dll. Halaman login tersebut biasanya mengharuskan kita untuk memasukkan username dan password yang telah ditentukan.</description>
+    </item>
+    
+  </channel>
+</rss>
